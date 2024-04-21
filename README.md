@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soubhagya-shivanagi-ba2037213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soubhagya-shivanagi-ba2037213/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soubhagya-shivanagi-ba2037213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soubhagya-shivanagi-ba2037213/" height="30" width="40" /></a>
 <a href="https://kaggle.com/soubhagya0922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soubhagya0922" height="30" width="40" /></a>
 <a href="https://fb.com/soubhagya shivanagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soubhagya shivanagi" height="30" width="40" /></a>
 <a href="https://instagram.com/soubhagya_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soubhagya_22" height="30" width="40" /></a>
