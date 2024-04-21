@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **Tracxn Technologies**
 
-- 🌱 I’m Currently exploring Opportunities **Data Analyst | Business Analyst**
+- 🌱 I’m Currently exploring Opportunities as **Data Analyst | Business Analyst**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soubhagya2290](https://github.com/Soubhagya2290)
 
